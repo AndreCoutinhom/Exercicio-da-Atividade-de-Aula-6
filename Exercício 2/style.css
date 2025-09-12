@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+.stl1 {
+    color: cyan;
+}
+
+.stl1:hover {
+    color: deeppink;
+
+}
+
+.stl2 {
+    color: cyan;
+}
+
+.stl2:hover {
+    font-size: larger;
+}
+
+.stl3 {
+    color: cyan;
+    background-color: deeppink;
+}
+
+.stl3:hover {
+    color: deeppink;
+    background-color: cyan;
+}
+
+.stl4 {
+    color: cyan;
+}
+
+.stl4:hover {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.stl5 {
+    color: cyan;
+}
+
+.stl5:hover {
+    border: 5px solid deeppink;
+}
