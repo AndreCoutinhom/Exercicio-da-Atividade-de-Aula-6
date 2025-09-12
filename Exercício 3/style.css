@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ddd;
+}
+
+#conteudo {
+    border: 8px solid rgb(0, 120, 160);
+    background-color: rgb(255, 175, 219);
+    width: 800px;
+}
+
+p:nth-child(1) {
+    color: red;
+}
+
+p:nth-child(3) {
+    font-style: italic;
+}
+
+.cancelado {
+    text-decoration: line-through;
+}
+
+div ul {
+    padding: 0px 0px 0px 40px;
+}
+
+div ul li {
+    color: blue;
+}
+
+div ul li ul {
+    margin: 0 0 20px 0;
+}
