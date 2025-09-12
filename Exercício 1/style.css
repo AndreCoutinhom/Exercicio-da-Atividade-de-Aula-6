@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+body p {
+    color: red;
+}
+
+body h1,h4 {
+    color: white;
+}
+
+.titulo_prime {
+    color: white;
+}
+
+.titulo {
+    color: white;
+}
+
+.titulo_com_p_vermelho {
+    color: white
+}
+
+.titulo_com_p_vermelho p {
+    color: red;
+}
+
+
+.irmaos_h4 h4 {
+    color: white;
+}
+
+.irmaos_h4 p {
+    color: blue;
+}
