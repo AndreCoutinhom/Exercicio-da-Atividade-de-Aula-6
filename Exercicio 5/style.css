@@ -1,0 +1,108 @@
+#tabela {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div h1 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: lighter;
+    color: green;
+    background-color: yellow;
+    padding: 0%;
+    padding-left: 0px;
+    padding-right: 50px;
+    text-align: center;
+    width: 423px;
+    margin: 0px;
+
+}
+
+#dados_tabela {
+    border: 5px solid green;
+    border-collapse: collapse;
+    border-color: green;
+    background: linear-gradient(to bottom, white, white, rgb(189, 255, 189), rgb(189, 255, 189));
+}
+
+#dados_tabela tr,td {
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+.parametro {
+    font-weight: bold;
+}
+
+.dado:hover {
+    background-color: yellow;
+    color: green;
+    
+}
+
+.dado .ano {
+    text-align: right;
+    padding-right: 5px;
+}
+
+.dado .time {
+    text-align: left;
+    padding-left: 5px;
+}
+
+#sao_paulo {
+    background-image: url(https://icons.iconseeker.com/png/fullsize/south-american-football-club/sao-paulo.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+#cruzeiro {
+    background-image: url(https://logodetimes.com/times/cruzeiro/logo-cruzeiro-256.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+#gremio {
+    background-image: url(https://www.iconarchive.com/download/i12901/giannis-zographos/south-american-football-club/Gremio.ico);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+#santos {
+    background-image: url(https://lncimg.lance.com.br/uploads/2024/04/Santos-1-1.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+#inter {
+    background-image: url(https://www.internacional.com.br/_next/image?url=%2Fimg%2Fsci-internacional.png&w=256&q=75);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+#palmeiras {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/2048px-Palmeiras_logo.svg.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+#vasco {
+    background-image: url(https://image-service.onefootball.com/transform?w=128&dpr=2&image=https://images.onefootball.com/icons/teams/164/1790.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+#flamengo {
+    background-image: url(https://papodeboteco.net/wp-content/uploads/2020/09/logo-flamengo-256.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
